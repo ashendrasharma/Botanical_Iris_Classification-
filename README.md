@@ -38,12 +38,6 @@ This project is especially designed to be beginner-friendly and comprehensible f
 
 Contributions, issues, and feature requests are welcome. If you find any issues or want to improve the project, please feel free to submit a pull request or open an issue.
 
-## License
-
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-**Note**: If you find this project helpful or like it, please consider giving it a star!
-
 ## Acknowledgments
 
 We would like to thank the UCI Machine Learning Repository for providing the Iris dataset, making it accessible for educational purposes.
